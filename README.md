@@ -22,5 +22,5 @@ Windows operating system formatting doesn't work on MacOS
 google maps library (pip install googlemaps)
 geoip2 library (pip install geoip2)
 requests library (pip install requests)
-
+pillow library (pip install pillow)
  
