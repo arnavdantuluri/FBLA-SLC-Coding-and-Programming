@@ -17,10 +17,16 @@ Plans for improvement:
 Plan on implementing a recommendation system which will utilize the database of users and also implement a link to the website of the service the google maps api returns
 
 Requirements: 
+
 Python 3.7 or greater preferably 3.10
+
 Windows operating system formatting doesn't work on MacOS
+
 google maps library (pip install googlemaps)
+
 geoip2 library (pip install geoip2)
+
 requests library (pip install requests)
+
 pillow library (pip install pillow)
  
