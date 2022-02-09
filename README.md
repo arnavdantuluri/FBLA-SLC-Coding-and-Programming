@@ -28,5 +28,5 @@ geoip2 library (pip install geoip2)
 
 requests library (pip install requests)
 
-pillow library (pip install pillow)
+pillow library (pip install Pillow)
  
